@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"salt-tortilla/utils"
+	"github.com/sergio-prgm/salt-tortilla/utils"
 
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"

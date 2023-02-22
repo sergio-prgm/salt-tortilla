@@ -1,4 +1,4 @@
-module salt-tortilla
+module github.com/sergio-prgm/salt-tortilla
 
 go 1.20
 
